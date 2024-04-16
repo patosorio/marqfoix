@@ -8,7 +8,6 @@ const App: React.FC = () => {
     <div className="App">
       <Routes>
         <Route path="/" element={<Main />} />
-        {/* Future routes can be added here */}
       </Routes>
     </div>
   );
